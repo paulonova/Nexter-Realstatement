@@ -65,6 +65,8 @@ https://bennettfeely.com/clippy/
 # install globaly =>  'npm install live-server -g'
 # run => 'live-server'
 
+<p>To Run live-server: </p>
+
 <h1>GRIDS:</h1>
 
 <p>I create grids using calc().</p>
